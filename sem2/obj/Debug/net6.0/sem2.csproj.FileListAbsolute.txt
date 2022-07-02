@@ -1,0 +1,15 @@
+C:\Users\Артем\Desktop\GB\Semminar\sem2\obj\Debug\net6.0\sem2.csproj.AssemblyReference.cache
+C:\Users\Артем\Desktop\GB\Semminar\sem2\obj\Debug\net6.0\sem2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Артем\Desktop\GB\Semminar\sem2\obj\Debug\net6.0\sem2.AssemblyInfoInputs.cache
+C:\Users\Артем\Desktop\GB\Semminar\sem2\obj\Debug\net6.0\sem2.AssemblyInfo.cs
+C:\Users\Артем\Desktop\GB\Semminar\sem2\obj\Debug\net6.0\sem2.csproj.CoreCompileInputs.cache
+C:\Users\Артем\Desktop\GB\Semminar\sem2\bin\Debug\net6.0\sem2.exe
+C:\Users\Артем\Desktop\GB\Semminar\sem2\bin\Debug\net6.0\sem2.deps.json
+C:\Users\Артем\Desktop\GB\Semminar\sem2\bin\Debug\net6.0\sem2.runtimeconfig.json
+C:\Users\Артем\Desktop\GB\Semminar\sem2\bin\Debug\net6.0\sem2.dll
+C:\Users\Артем\Desktop\GB\Semminar\sem2\bin\Debug\net6.0\sem2.pdb
+C:\Users\Артем\Desktop\GB\Semminar\sem2\obj\Debug\net6.0\sem2.dll
+C:\Users\Артем\Desktop\GB\Semminar\sem2\obj\Debug\net6.0\refint\sem2.dll
+C:\Users\Артем\Desktop\GB\Semminar\sem2\obj\Debug\net6.0\sem2.pdb
+C:\Users\Артем\Desktop\GB\Semminar\sem2\obj\Debug\net6.0\sem2.genruntimeconfig.cache
+C:\Users\Артем\Desktop\GB\Semminar\sem2\obj\Debug\net6.0\ref\sem2.dll
